@@ -4,15 +4,14 @@ Mata Kuliah: Web Programming 2
 Dosen pengampu: Muhammad Ikhwan Fathulloh
 
 
-# Kelompok
-- Kelompok 10
+# Kelompok 10
 - Proyek: Sistem Bisokop
 - Anggota:
   > Riska Raysa Noor - 21552011393
   
   > Pesta Natalia Gultom - 21552011443
 
-# Judul Proyek
+# Judul Proyek : VIBESid
 
 # Penjelasan proyek
 
