@@ -1,5 +1,5 @@
-# Mata Kuliah: Web Programming 2
-# Dosen pengampu: Muhammad Ikhwan Fathulloh
+Mata Kuliah: Web Programming 2
+Dosen pengampu: Muhammad Ikhwan Fathulloh
 
 
 # Kelompok
@@ -7,6 +7,7 @@
 - Proyek: Sistem Bisokop
 - Anggota:
   > Riska Raysa Noor - 21552011393
+  
   > Pesta Natalia Gultom - 21552011
 
 # Judul Proyek
@@ -17,5 +18,6 @@
 
 # Demo Proyek
 - Github:
+  
 - Youtube: 
 
