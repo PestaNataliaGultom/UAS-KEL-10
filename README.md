@@ -10,7 +10,7 @@ Dosen pengampu: Muhammad Ikhwan Fathulloh
 - Anggota:
   > Riska Raysa Noor - 21552011393
   
-  > Pesta Natalia Gultom - 21552011
+  > Pesta Natalia Gultom - 21552011443
 
 # Judul Proyek
 
