@@ -35,6 +35,7 @@ Sistem Tiket Bioskop
 
 # Pembagian Tim
 > Pesta Natalia Gultom - 21552011443 : Upload Laravel
+
 > Riska Raysa Noor - 21552011393 : Upload README.md dan Index.html
 
 # Demo Proyek
