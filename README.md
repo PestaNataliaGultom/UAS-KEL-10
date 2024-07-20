@@ -39,6 +39,23 @@ Sistem Tiket Bioskop
 > Riska Raysa Noor - 21552011393 : Upload README.md dan Index.html
 
 # Demo Proyek
+
+<ul>
+    <li>Landing Page : <img src="public/demo/landing.png" alt="Build Status"></li>
+    <li>Sedang tayang : <img src="public/demo/now-play.png" alt="Build Status"></li>
+    <li>Bioskop : <img src="public/demo/theater.png" alt="Build Status"></li>
+    <li>Akan tayang : <img src="public/demo/upcoming.png" alt="Build Status"></li>
+    <li>Login : <img src="public/demo/login.png" alt="Build Status"></li>
+    <li>Register : <img src="public/demo/register.png" alt="Build Status"></li>
+    <li>Detail Movie : <img src="public/demo/detail-movie.png" alt="Build Status"></li>
+    <li>Movie Theater : <img src="public/demo/movie-theater.png" alt="Build Status"></li>
+    <li>Kursi : <img src="public/demo/seat.png" alt="Build Status"></li>
+    <li>Tiket : <img src="public/demo/ticket.png" alt="Build Status"></li>
+    <li>Payment : <img src="public/demo/ticket-complete.png" alt="Build Status"></li>
+    <li>Riwayat Pesanan : <img src="public/demo/history.png" alt="Build Status"></li>
+    <li>Profile : <img src="public/demo/profile.png" alt="Build Status"></li>
+</ul>
+
 - Github:
   
 - Youtube: 
