@@ -21,13 +21,13 @@
                                 <div class="col-md-8">
                                     <h4 class="card-title mb-2">{{ $movie->title }}</h4>
                                     <p>{{ $movie->genre }}</p>
-                                    <p><i class="far fa-clock text-danger me-2"></i> {{ $movie->duration }} Minutes</p>
-                                    <p class="fw-semibold btn btn-danger">Rp. {{ $theater->price }}</p>
+                                    <p><i class="far fa-clock text-primary me-2"></i> {{ $movie->duration }} Minutes</p>
+                                    <p class="fw-semibold btn btn-primary">Rp. {{ $theater->price }}</p>
                                 </div>
                             </div>
                             <div class="d-flex flex-wrap justify-content-center mt-2 pb-4 gap-2 border-bottom">
                                 @foreach ($movie->showtimes as $showtime)
-                                    <a href="{{ route('seats.layout', $showtime->id) }}" class="btn btn-outline-danger">{{ \Carbon\Carbon::parse($showtime->show_time)->format('H:i') }}</a>
+                                    <a href="{{ route('seats.layout', $showtime->id) }}" class="btn btn-outline-primary">{{ \Carbon\Carbon::parse($showtime->show_time)->format('H:i') }}</a>
                                 @endforeach
                             </div>
                         @endforeach

@@ -15,6 +15,7 @@ class UsersTableSeeder extends Seeder
      */
     public function run(): void
     {
+        $faker = Faker::create();
         User::create([
             'name' => 'Riska R',
             'email' => "riska@mail.com",
