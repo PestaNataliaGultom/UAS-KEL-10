@@ -2,7 +2,10 @@
 
 namespace Database\Seeders;
 
+use App\Models\User;
 // use Illuminate\Database\Console\Seeds\WithoutModelEvents;
+use App\Models\Segment;
+use App\Models\Showtime;
 use Illuminate\Database\Seeder;
 
 class DatabaseSeeder extends Seeder
@@ -12,11 +15,16 @@ class DatabaseSeeder extends Seeder
      */
     public function run(): void
     {
-        // \App\Models\User::factory(10)->create();
-
-        // \App\Models\User::factory()->create([
-        //     'name' => 'Test User',
-        //     'email' => 'test@example.com',
-        // ]);
+        $this->call([
+            UsersTableSeeder::class,
+            MoviesTableSeeder::class,
+            TheatersTableSeeder::class,
+            StudiosTableSeeder::class,
+            ShowtimesTableSeeder::class,
+            SeatsTabelSeeder::class,
+            // TicketsTableSeeder::class,
+            // PaymentsTableSeeder::class,
+        ]);
+        
     }
 }
