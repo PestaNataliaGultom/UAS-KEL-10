@@ -52,7 +52,8 @@ Sistem Tiket Bioskop
     <li>Profile : <img src="public/demo/profile.png" alt="Build Status"></li>
 </ul>
 
-- Github:
+- Github: https://github.com/PestaNataliaGultom/UAS-KEL-10.git
+
   
 - Youtube: 
 
