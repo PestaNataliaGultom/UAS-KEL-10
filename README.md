@@ -55,5 +55,5 @@ Sistem Tiket Bioskop
 - Github: https://github.com/PestaNataliaGultom/UAS-KEL-10.git
 
   
-- Youtube: 
+- Youtube: https://youtu.be/HmtE9vaSjgg 
 
